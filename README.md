@@ -1,5 +1,4 @@
 # Harsh
-<!-- Profile Photo -->
 <p align="center">
   <img src="https://i.imgur.com/w6hxZ3Y.jpeg" alt="Harsh Profile Photo" width="200" style="border-radius: 50%; box-shadow: 0 0 20px #007bff;" />
 </p>
