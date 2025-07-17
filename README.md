@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/harsh_badodiyaa?igsh=MW81M2RraGljamNzcw==" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30" />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/share/19vqJXRw4m/" target="_blank">
@@ -14,7 +15,6 @@
 
 ---
 
-<!-- Banner Background -->
 <p align="center">
   <img src="https://i.imgur.com/0QFz2gu.jpeg" alt="Banner Background" width="100%" />
 </p>
