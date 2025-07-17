@@ -1,7 +1,7 @@
 # Harsh
 <!-- Profile Photo -->
 <p align="center">
-  <img src="https://i.imgur.com/YgGTTo4.jpeg" alt="Harsh Profile Photo" width="200" style="border-radius: 50%; box-shadow: 0 0 20px #007bff;" />
+  <img src="https://i.imgur.com/w6hxZ3Y.jpeg" alt="Harsh Profile Photo" width="200" style="border-radius: 50%; box-shadow: 0 0 20px #007bff;" />
 </p>
 
 <h2 align="center">✨ Harsh Badodiya ✨</h2>
@@ -60,12 +60,12 @@
 
 ### 🌟 Interests
 
-- 📐 Solving logic & math problems
-- 🎮 Exploring games, gaming setups, and development
-- 📱 Understanding mobile/PC hardware and software
-- 🖥️ Video & photo editing, design, and visual creativity
-- 📸 Clicking nature photos — from sunsets to leaves
-- 🔧 Learning how things work in tech and life
+- 📐 Solving logic & math problems  
+- 🎮 Exploring games, gaming setups, and development  
+- 📱 Understanding mobile/PC hardware and software  
+- 🖥️ Video & photo editing, design, and visual creativity  
+- 📸 Clicking nature photos — from sunsets to leaves  
+- 🔧 Learning how things work in tech and life  
 
 ---
 
