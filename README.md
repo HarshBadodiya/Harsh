@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/0QFz2gu.jpeg" alt="Banner Background" width="100%" />
+  <img file_00000000df4061f5aeb8c51f05000fcc.png />
 </p>
 
 <h1 align="center">Hi 👋, I'm Harsh Badodiya</h1>
