@@ -1,4 +1,4 @@
-
+![logo](https://github.com/HarshBadodiya/Harsh/blob/main/file_00000000df4061f5aeb8c51f05000fcc.png)
 <h2 align="center">✨ Harsh Badodiya ✨</h2>
 
 <p align="center">
