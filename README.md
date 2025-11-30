@@ -1,5 +1,4 @@
 
-# Harsh
 <h2 align="center">✨ Harsh Badodiya ✨</h2>
 
 <p align="center">
@@ -16,9 +15,6 @@
 
 ---
 
-<p align="center">
-  <img file_00000000df4061f5aeb8c51f05000fcc.png />
-</p>
 
 <h1 align="center">Hi 👋, I'm Harsh Badodiya</h1>
 
@@ -76,6 +72,3 @@
 
 > *"I edit like a creator, click like an artist, play like a gamer, and think like an engineer!"*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshBadodiya&show_icons=true&theme=radical&hide_border=true" />
-</p>
